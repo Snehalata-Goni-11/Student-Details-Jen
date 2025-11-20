@@ -9,5 +9,5 @@ name=sys.argv[1]
 rollno=sys.argv[2]
   #printing statements
 print("script Name:",script_name)
-print("script student name:",name)
+print("student name:",name)
 print("RollNumber:",rollno)
